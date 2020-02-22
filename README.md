@@ -33,5 +33,5 @@ A Simple Example
     main()
 
 ------
-![image](https://github.com/Yyonging/test/blob/master/example.gif)
+![image](example.gif)
 
