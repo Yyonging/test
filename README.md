@@ -18,7 +18,6 @@ Install and update using `pip`:
 A Simple Example
 -----
 
-.. code-block:: python
 
 
     import click
